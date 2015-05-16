@@ -18,4 +18,4 @@ jQuery 2.1.4
 nginx 1.8
 
 ## Author
-Yu-ki Satoh (@yuki_virgo)[https://twitter.com/yuki_virgo]
+Yu-ki Satoh [@yuki_virgo](https://twitter.com/yuki_virgo)
